@@ -119,4 +119,5 @@ Cada linha corresponde a uma sequência de pacotes recebidos **em ordem**, delim
 ## 👨‍💻 Autor
 
 **Henrick Cardoso**
+
 Projeto desenvolvido na disciplina de **Programação e Análise de Algoritmos** — 2025.
